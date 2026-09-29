@@ -1,14 +1,9 @@
 numpy==2.0.2
 pandas==2.3.3
-scipy==1.13.1
 scikit-learn==1.6.1
-matplotlib==3.9.4
-seaborn==0.13.2
-statsmodels==0.14.6
 joblib==1.5.3
-ipykernel==6.31.0
 requests==2.31.0
 xgboost==2.1.4
-lightgbm==4.6.0
-catboost==1.2.10
-cloudpickle==3.1.2
+streamlit>=1.40,<2
+dash==4.1.0
+plotly==6.6.0

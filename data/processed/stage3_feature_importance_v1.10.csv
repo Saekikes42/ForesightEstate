@@ -1,0 +1,21 @@
+﻿Признак,Важность
+cat__city_Antalya,0.008955931
+cat__district_İstanbul/Sancaktepe,0.009182129
+cat__district_İstanbul/Beylikdüzü,0.009464684
+cat__district_İstanbul/Şişli,0.010796542
+cat__district_İstanbul/Sarıyer,0.010918166
+cat__city_Adana,0.012076358
+num__bedrooms,0.01242729
+cat__district_İzmir/Çeşme,0.01324102
+cat__city_Ankara,0.013496746
+cat__sub_type_Prefabrik Ev,0.014852664
+cat__city_Muğla,0.014959843
+cat__district_İstanbul/Esenyurt,0.015635636
+cat__district_İstanbul/Bakırköy,0.016294831
+cat__district_Sakarya/Karasu,0.018175196
+cat__district_İstanbul/Beşiktaş,0.019478463
+cat__sub_type_Daire,0.01958638
+cat__city_İzmir,0.022705246
+cat__district_Muğla/Bodrum,0.03183572
+cat__district_İstanbul/Kadıköy,0.04230164
+cat__city_İstanbul,0.07525419

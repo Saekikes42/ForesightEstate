@@ -1,0 +1,612 @@
+﻿Признак,Средний |SHAP|
+num__building_age_years,0.2905690132929292
+num__size_m2,0.24923513467514163
+num__bedrooms,0.19687369866194115
+num__floor_ratio,0.18975570465578911
+num__building_floors,0.1252883093343698
+num__floor_number,0.09981601450604888
+num__living_rooms,0.004588831379388769
+num__floor_conflict,0.0
+num__size_missing,0.0
+num__rooms_missing,0.0
+num__age_missing,0.0
+num__is_new_building,0.0
+num__is_top_floor,0.0
+cat__city_Adana,0.0
+cat__city_Adıyaman,0.0
+cat__city_Afyonkarahisar,0.0
+cat__city_Aksaray,0.0
+cat__city_Ankara,0.0
+cat__city_Antalya,0.0
+cat__city_Aydın,0.0
+cat__city_Balıkesir,0.0
+cat__city_Bilecik,0.0
+cat__city_Bingöl,0.0
+cat__city_Bolu,0.0
+cat__city_Burdur,0.0
+cat__city_Bursa,0.0
+cat__city_Denizli,0.0
+cat__city_Diyarbakır,0.0
+cat__city_Düzce,0.0
+cat__city_Edirne,0.0
+cat__city_Elazığ,0.0
+cat__city_Erzurum,0.0
+cat__city_Eskişehir,0.0
+cat__city_Gaziantep,0.0
+cat__city_Giresun,0.0
+cat__city_Isparta,0.0
+cat__city_KKTC,0.0
+cat__city_Kahramanmaraş,0.0
+cat__city_Karaman,0.0
+cat__city_Kastamonu,0.0
+cat__city_Kayseri,0.0
+cat__city_Kocaeli,0.0
+cat__city_Konya,0.0
+cat__city_Kütahya,0.0
+cat__city_Kırklareli,0.0
+cat__city_Kırıkkale,0.0
+cat__city_Malatya,0.0
+cat__city_Manisa,0.0
+cat__city_Mersin,0.0
+cat__city_Muğla,0.0
+cat__city_Nevşehir,0.0
+cat__city_Niğde,0.0
+cat__city_Ordu,0.0
+cat__city_Osmaniye,0.0
+cat__city_Rize,0.0
+cat__city_Sakarya,0.0
+cat__city_Samsun,0.0
+cat__city_Sivas,0.0
+cat__city_Tekirdağ,0.0
+cat__city_Tokat,0.0
+cat__city_Trabzon,0.0
+cat__city_Uşak,0.0
+cat__city_Yalova,0.0
+cat__city_Yozgat,0.0
+cat__city_Zonguldak,0.0
+cat__city_Çanakkale,0.0
+cat__city_Çorum,0.0
+cat__city_İstanbul,0.0
+cat__city_İzmir,0.0
+cat__city_Şanlıurfa,0.0
+cat__city_infrequent_sklearn,0.0
+cat__district_Adana/Sarıçam,0.0
+cat__district_Adana/Seyhan,0.0
+cat__district_Adana/Çukurova,0.0
+cat__district_Adıyaman/Merkez,0.0
+cat__district_Afyonkarahisar/Merkez,0.0
+cat__district_Aksaray/Merkez,0.0
+cat__district_Ankara/Altındağ,0.0
+cat__district_Ankara/Etimesgut,0.0
+cat__district_Ankara/Gölbaşı,0.0
+cat__district_Ankara/Keçiören,0.0
+cat__district_Ankara/Mamak,0.0
+cat__district_Ankara/Polatlı,0.0
+cat__district_Ankara/Pursaklar,0.0
+cat__district_Ankara/Sincan,0.0
+cat__district_Ankara/Yenimahalle,0.0
+cat__district_Ankara/Çankaya,0.0
+cat__district_Antalya/Aksu,0.0
+cat__district_Antalya/Alanya,0.0
+cat__district_Antalya/Döşemealtı,0.0
+cat__district_Antalya/Kepez,0.0
+cat__district_Antalya/Konyaaltı,0.0
+cat__district_Antalya/Manavgat,0.0
+cat__district_Antalya/Muratpaşa,0.0
+cat__district_Aydın/Didim,0.0
+cat__district_Aydın/Efeler,0.0
+cat__district_Aydın/Kuşadası,0.0
+cat__district_Aydın/Nazilli,0.0
+cat__district_Aydın/Söke,0.0
+cat__district_Balıkesir/Altıeylül,0.0
+cat__district_Balıkesir/Ayvalık,0.0
+cat__district_Balıkesir/Bandırma,0.0
+cat__district_Balıkesir/Burhaniye,0.0
+cat__district_Balıkesir/Edremit,0.0
+cat__district_Balıkesir/Karesi,0.0
+cat__district_Bingöl/Merkez,0.0
+cat__district_Bolu/Merkez,0.0
+cat__district_Burdur/Merkez,0.0
+cat__district_Bursa/Gemlik,0.0
+cat__district_Bursa/Gürsu,0.0
+cat__district_Bursa/Mudanya,0.0
+cat__district_Bursa/Nilüfer,0.0
+cat__district_Bursa/Orhangazi,0.0
+cat__district_Bursa/Osmangazi,0.0
+cat__district_Bursa/Yıldırım,0.0
+cat__district_Denizli/Merkezefendi,0.0
+cat__district_Denizli/Pamukkale,0.0
+cat__district_Düzce/Merkez,0.0
+cat__district_Edirne/Merkez,0.0
+cat__district_Elazığ/Merkez,0.0
+cat__district_Erzurum/Palandöken,0.0
+cat__district_Erzurum/Yakutiye,0.0
+cat__district_Eskişehir/Odunpazarı,0.0
+cat__district_Eskişehir/Tepebaşı,0.0
+cat__district_Gaziantep/Şahinbey,0.0
+cat__district_Gaziantep/Şehitkamil,0.0
+cat__district_Isparta/Merkez,0.0
+cat__district_Kahramanmaraş/Onikişubat,0.0
+cat__district_Karaman/Merkez,0.0
+cat__district_Kastamonu/Merkez,0.0
+cat__district_Kayseri/Develi,0.0
+cat__district_Kayseri/Kocasinan,0.0
+cat__district_Kayseri/Melikgazi,0.0
+cat__district_Kayseri/Talas,0.0
+cat__district_Kocaeli/Başiskele,0.0
+cat__district_Kocaeli/Darıca,0.0
+cat__district_Kocaeli/Derince,0.0
+cat__district_Kocaeli/Gebze,0.0
+cat__district_Kocaeli/Gölcük,0.0
+cat__district_Kocaeli/Karamürsel,0.0
+cat__district_Kocaeli/Kartepe,0.0
+cat__district_Kocaeli/Körfez,0.0
+cat__district_Kocaeli/Çayırova,0.0
+cat__district_Kocaeli/İzmit,0.0
+cat__district_Konya/Akşehir,0.0
+cat__district_Konya/Karatay,0.0
+cat__district_Konya/Meram,0.0
+cat__district_Konya/Selçuklu,0.0
+cat__district_Kütahya/Merkez,0.0
+cat__district_Kırklareli/Lüleburgaz,0.0
+cat__district_Kırıkkale/Merkez,0.0
+cat__district_Malatya/Battalgazi,0.0
+cat__district_Malatya/Yeşilyurt,0.0
+cat__district_Manisa/Akhisar,0.0
+cat__district_Manisa/Salihli,0.0
+cat__district_Manisa/Turgutlu,0.0
+cat__district_Manisa/Yunusemre,0.0
+cat__district_Manisa/Şehzadeler,0.0
+cat__district_Mersin/Akdeniz,0.0
+cat__district_Mersin/Erdemli,0.0
+cat__district_Mersin/Mezitli,0.0
+cat__district_Mersin/Silifke,0.0
+cat__district_Mersin/Toroslar,0.0
+cat__district_Mersin/Yenişehir,0.0
+cat__district_Muğla/Bodrum,0.0
+cat__district_Muğla/Dalaman,0.0
+cat__district_Muğla/Datça,0.0
+cat__district_Muğla/Fethiye,0.0
+cat__district_Muğla/Marmaris,0.0
+cat__district_Muğla/Menteşe,0.0
+cat__district_Muğla/Milas,0.0
+cat__district_Muğla/Ortaca,0.0
+cat__district_Nevşehir/Merkez,0.0
+cat__district_Niğde/Merkez,0.0
+cat__district_Ordu/Altınordu,0.0
+cat__district_Ordu/Fatsa,0.0
+cat__district_Osmaniye/Merkez,0.0
+cat__district_Rize/Merkez,0.0
+cat__district_Sakarya/Adapazarı,0.0
+cat__district_Sakarya/Akyazı,0.0
+cat__district_Sakarya/Erenler,0.0
+cat__district_Sakarya/Karasu,0.0
+cat__district_Sakarya/Kocaali,0.0
+cat__district_Sakarya/Sapanca,0.0
+cat__district_Sakarya/Serdivan,0.0
+cat__district_Samsun/Atakum,0.0
+cat__district_Samsun/Canik,0.0
+cat__district_Samsun/İlkadım,0.0
+cat__district_Sivas/Merkez,0.0
+cat__district_Tekirdağ/Kapaklı,0.0
+cat__district_Tekirdağ/Marmaraereğlisi,0.0
+cat__district_Tekirdağ/Süleymanpaşa,0.0
+cat__district_Tekirdağ/Çerkezköy,0.0
+cat__district_Tekirdağ/Çorlu,0.0
+cat__district_Tekirdağ/Şarköy,0.0
+cat__district_Tokat/Merkez,0.0
+cat__district_Trabzon/Akçaabat,0.0
+cat__district_Trabzon/Ortahisar,0.0
+cat__district_Trabzon/Yomra,0.0
+cat__district_Uşak/Merkez,0.0
+cat__district_Yalova/Merkez,0.0
+cat__district_Yalova/Çiftlikköy,0.0
+cat__district_Yalova/Çınarcık,0.0
+cat__district_Yozgat/Merkez,0.0
+cat__district_Çanakkale/Ayvacık,0.0
+cat__district_Çanakkale/Biga,0.0
+cat__district_Çanakkale/Ezine,0.0
+cat__district_Çanakkale/Gelibolu,0.0
+cat__district_Çanakkale/Merkez,0.0
+cat__district_Çorum/Merkez,0.0
+cat__district_İstanbul/Arnavutköy,0.0
+cat__district_İstanbul/Ataşehir,0.0
+cat__district_İstanbul/Avcılar,0.0
+cat__district_İstanbul/Bahçelievler,0.0
+cat__district_İstanbul/Bakırköy,0.0
+cat__district_İstanbul/Bayrampaşa,0.0
+cat__district_İstanbul/Bağcılar,0.0
+cat__district_İstanbul/Başakşehir,0.0
+cat__district_İstanbul/Beykoz,0.0
+cat__district_İstanbul/Beylikdüzü,0.0
+cat__district_İstanbul/Beyoğlu,0.0
+cat__district_İstanbul/Beşiktaş,0.0
+cat__district_İstanbul/Büyükçekmece,0.0
+cat__district_İstanbul/Esenler,0.0
+cat__district_İstanbul/Esenyurt,0.0
+cat__district_İstanbul/Eyüpsultan,0.0
+cat__district_İstanbul/Fatih,0.0
+cat__district_İstanbul/Gaziosmanpaşa,0.0
+cat__district_İstanbul/Güngören,0.0
+cat__district_İstanbul/Kadıköy,0.0
+cat__district_İstanbul/Kartal,0.0
+cat__district_İstanbul/Kağıthane,0.0
+cat__district_İstanbul/Küçükçekmece,0.0
+cat__district_İstanbul/Maltepe,0.0
+cat__district_İstanbul/Pendik,0.0
+cat__district_İstanbul/Sancaktepe,0.0
+cat__district_İstanbul/Silivri,0.0
+cat__district_İstanbul/Sultanbeyli,0.0
+cat__district_İstanbul/Sultangazi,0.0
+cat__district_İstanbul/Tuzla,0.0
+cat__district_İstanbul/Zeytinburnu,0.0
+cat__district_İstanbul/Çatalca,0.0
+cat__district_İstanbul/Çekmeköy,0.0
+cat__district_İstanbul/Ümraniye,0.0
+cat__district_İstanbul/Üsküdar,0.0
+cat__district_İstanbul/Şile,0.0
+cat__district_İstanbul/Şişli,0.0
+cat__district_İzmir/Balçova,0.0
+cat__district_İzmir/Bayraklı,0.0
+cat__district_İzmir/Bergama,0.0
+cat__district_İzmir/Bornova,0.0
+cat__district_İzmir/Buca,0.0
+cat__district_İzmir/Dikili,0.0
+cat__district_İzmir/Gaziemir,0.0
+cat__district_İzmir/Karabağlar,0.0
+cat__district_İzmir/Karşıyaka,0.0
+cat__district_İzmir/Kemalpaşa,0.0
+cat__district_İzmir/Konak,0.0
+cat__district_İzmir/Menderes,0.0
+cat__district_İzmir/Menemen,0.0
+cat__district_İzmir/Narlıdere,0.0
+cat__district_İzmir/Seferihisar,0.0
+cat__district_İzmir/Selçuk,0.0
+cat__district_İzmir/Tire,0.0
+cat__district_İzmir/Torbalı,0.0
+cat__district_İzmir/Urla,0.0
+cat__district_İzmir/Çeşme,0.0
+cat__district_İzmir/Çiğli,0.0
+cat__district_İzmir/Ödemiş,0.0
+cat__district_Şanlıurfa/Karaköprü,0.0
+cat__district_infrequent_sklearn,0.0
+cat__neighborhood_Adana/Sarıçam/Çarkıpare,0.0
+cat__neighborhood_Adana/Seyhan/2000 Evler,0.0
+cat__neighborhood_Adana/Seyhan/Gürselpaşa,0.0
+cat__neighborhood_Adana/Seyhan/Pınar,0.0
+cat__neighborhood_Adana/Seyhan/Tellidere,0.0
+cat__neighborhood_Adana/Seyhan/Yeşilyurt,0.0
+cat__neighborhood_Adana/Çukurova/Belediye Evleri,0.0
+cat__neighborhood_Adana/Çukurova/Güzelyalı,0.0
+cat__neighborhood_Adana/Çukurova/Huzurevleri,0.0
+cat__neighborhood_Adana/Çukurova/Toros,0.0
+cat__neighborhood_Adana/Çukurova/Yurt,0.0
+cat__neighborhood_Adana/Çukurova/Yüzüncüyıl,0.0
+cat__neighborhood_Adıyaman/Merkez/Altınşehir,0.0
+cat__neighborhood_Ankara/Altındağ/Karapürçek,0.0
+cat__neighborhood_Ankara/Altındağ/Yıldıztepe,0.0
+cat__neighborhood_Ankara/Etimesgut/Ahi Mesut,0.0
+cat__neighborhood_Ankara/Etimesgut/Bağlıca,0.0
+cat__neighborhood_Ankara/Etimesgut/Elvan,0.0
+cat__neighborhood_Ankara/Etimesgut/Eryaman,0.0
+cat__neighborhood_Ankara/Etimesgut/Göksu,0.0
+cat__neighborhood_Ankara/Etimesgut/Süvari,0.0
+cat__neighborhood_Ankara/Etimesgut/İstasyon,0.0
+cat__neighborhood_Ankara/Etimesgut/Şehit Osman Avcı,0.0
+cat__neighborhood_Ankara/Keçiören/Atapark,0.0
+cat__neighborhood_Ankara/Keçiören/Ayvalı,0.0
+cat__neighborhood_Ankara/Keçiören/Etlik,0.0
+cat__neighborhood_Ankara/Keçiören/Kanuni,0.0
+cat__neighborhood_Ankara/Keçiören/Kuşcağız,0.0
+cat__neighborhood_Ankara/Keçiören/Sancaktepe,0.0
+cat__neighborhood_Ankara/Keçiören/Ufuktepe,0.0
+cat__neighborhood_Ankara/Keçiören/Yükseltepe,0.0
+cat__neighborhood_Ankara/Keçiören/İncirli,0.0
+cat__neighborhood_Ankara/Keçiören/Şehit Kubilay,0.0
+cat__neighborhood_Ankara/Mamak/General Zeki Doğan,0.0
+cat__neighborhood_Ankara/Yenimahalle/Ata,0.0
+cat__neighborhood_Ankara/Yenimahalle/Kayalar,0.0
+cat__neighborhood_Ankara/Yenimahalle/Pamuklar,0.0
+cat__neighborhood_Ankara/Yenimahalle/Turgut Özal,0.0
+cat__neighborhood_Ankara/Yenimahalle/Yeni Batı,0.0
+cat__neighborhood_Ankara/Yenimahalle/Çiğdemtepe,0.0
+cat__neighborhood_Ankara/Çankaya/Alacaatlı,0.0
+cat__neighborhood_Ankara/Çankaya/Harbiye,0.0
+cat__neighborhood_Ankara/Çankaya/Sokullu Mehmet Paşa,0.0
+cat__neighborhood_Antalya/Alanya/Cikcilli,0.0
+cat__neighborhood_Antalya/Alanya/Kestel,0.0
+cat__neighborhood_Antalya/Alanya/Mahmutlar,0.0
+cat__neighborhood_Antalya/Alanya/Oba,0.0
+cat__neighborhood_Antalya/Kepez/Ahatlı,0.0
+cat__neighborhood_Antalya/Kepez/Erenköy,0.0
+cat__neighborhood_Antalya/Kepez/Güneş,0.0
+cat__neighborhood_Antalya/Kepez/Hüsnü Karakaş,0.0
+cat__neighborhood_Antalya/Kepez/Mehmet Akif Ersoy,0.0
+cat__neighborhood_Antalya/Kepez/Varsak Karşıyaka,0.0
+cat__neighborhood_Antalya/Kepez/Şafak,0.0
+cat__neighborhood_Antalya/Konyaaltı/Hurma,0.0
+cat__neighborhood_Antalya/Konyaaltı/Liman,0.0
+cat__neighborhood_Antalya/Konyaaltı/Uncalı,0.0
+cat__neighborhood_Antalya/Manavgat/Ilıca,0.0
+cat__neighborhood_Antalya/Manavgat/Sarılar,0.0
+cat__neighborhood_Antalya/Muratpaşa/Fener,0.0
+cat__neighborhood_Antalya/Muratpaşa/Gebizli,0.0
+cat__neighborhood_Antalya/Muratpaşa/Güzeloba,0.0
+cat__neighborhood_Antalya/Muratpaşa/Konuksever,0.0
+cat__neighborhood_Antalya/Muratpaşa/Kızılarık,0.0
+cat__neighborhood_Antalya/Muratpaşa/Kızıltoprak,0.0
+cat__neighborhood_Antalya/Muratpaşa/Meydankavağı,0.0
+cat__neighborhood_Antalya/Muratpaşa/Yenigün,0.0
+cat__neighborhood_Antalya/Muratpaşa/Yüksekalan,0.0
+cat__neighborhood_Antalya/Muratpaşa/Çağlayan,0.0
+cat__neighborhood_Antalya/Muratpaşa/Şirinyalı,0.0
+cat__neighborhood_Aydın/Didim/Ak-Yeniköy,0.0
+cat__neighborhood_Aydın/Didim/Akbük,0.0
+cat__neighborhood_Aydın/Didim/Altınkum,0.0
+cat__neighborhood_Aydın/Didim/Cumhuriyet,0.0
+cat__neighborhood_Aydın/Didim/Efeler,0.0
+cat__neighborhood_Aydın/Didim/Hisar,0.0
+cat__neighborhood_Aydın/Didim/Mavişehir,0.0
+cat__neighborhood_Aydın/Didim/Yeni,0.0
+cat__neighborhood_Aydın/Didim/Çamlık,0.0
+cat__neighborhood_Aydın/Efeler/Ata,0.0
+cat__neighborhood_Aydın/Efeler/Girne,0.0
+cat__neighborhood_Aydın/Efeler/Mimar Sinan,0.0
+cat__neighborhood_Aydın/Kuşadası/Davutlar,0.0
+cat__neighborhood_Aydın/Kuşadası/Değirmendere,0.0
+cat__neighborhood_Aydın/Kuşadası/Ege,0.0
+cat__neighborhood_Aydın/Kuşadası/Güzelçamlı,0.0
+cat__neighborhood_Aydın/Kuşadası/Hacıfeyzullah,0.0
+cat__neighborhood_Aydın/Kuşadası/Kadıkalesi,0.0
+cat__neighborhood_Aydın/Kuşadası/Kadınlar Denizi,0.0
+cat__neighborhood_Aydın/Kuşadası/Karaova,0.0
+cat__neighborhood_Aydın/Kuşadası/Soğucak,0.0
+cat__neighborhood_Aydın/Kuşadası/Türkmen,0.0
+cat__neighborhood_Aydın/Kuşadası/Yavansu,0.0
+cat__neighborhood_Aydın/Kuşadası/İkiçeşmelik,0.0
+cat__neighborhood_Aydın/Söke/Konak,0.0
+cat__neighborhood_Balıkesir/Ayvalık/Küçükköy,0.0
+cat__neighborhood_Balıkesir/Bandırma/İhsaniye,0.0
+cat__neighborhood_Balıkesir/Edremit/Akçay,0.0
+cat__neighborhood_Balıkesir/Edremit/Altınkum,0.0
+cat__neighborhood_Balıkesir/Edremit/Altınoluk,0.0
+cat__neighborhood_Balıkesir/Edremit/Cennetayağı,0.0
+cat__neighborhood_Balıkesir/Edremit/Güre,0.0
+cat__neighborhood_Balıkesir/Edremit/İkizçay,0.0
+cat__neighborhood_Bursa/Mudanya/Halitpaşa,0.0
+cat__neighborhood_Bursa/Nilüfer/23 Nisan,0.0
+cat__neighborhood_Bursa/Nilüfer/Beşevler,0.0
+cat__neighborhood_Bursa/Nilüfer/Dumlupınar,0.0
+cat__neighborhood_Bursa/Nilüfer/Görükle,0.0
+cat__neighborhood_Bursa/Nilüfer/Kültür,0.0
+cat__neighborhood_Bursa/Osmangazi/Demirtaş Barbaros,0.0
+cat__neighborhood_Bursa/Osmangazi/Yunuseli,0.0
+cat__neighborhood_Denizli/Merkezefendi/Akkonak,0.0
+cat__neighborhood_Denizli/Merkezefendi/Şemikler,0.0
+cat__neighborhood_Denizli/Pamukkale/Bağbaşı,0.0
+cat__neighborhood_Edirne/Merkez/Şükrüpaşa,0.0
+cat__neighborhood_Eskişehir/Odunpazarı/71 Evler,0.0
+cat__neighborhood_Eskişehir/Odunpazarı/Büyükdere,0.0
+cat__neighborhood_Eskişehir/Odunpazarı/Emek,0.0
+cat__neighborhood_Eskişehir/Tepebaşı/Batıkent,0.0
+cat__neighborhood_Eskişehir/Tepebaşı/Ertuğrulgazi,0.0
+cat__neighborhood_Eskişehir/Tepebaşı/Kumlubel,0.0
+cat__neighborhood_Eskişehir/Tepebaşı/Zafer,0.0
+cat__neighborhood_Eskişehir/Tepebaşı/Çamlıca,0.0
+cat__neighborhood_Eskişehir/Tepebaşı/Şirintepe,0.0
+cat__neighborhood_Gaziantep/Şahinbey/Akkent,0.0
+cat__neighborhood_Gaziantep/Şahinbey/Bülbülzade,0.0
+cat__neighborhood_Kastamonu/Merkez/Kuzeykent,0.0
+cat__neighborhood_Kayseri/Melikgazi/Gesi Fatih,0.0
+cat__neighborhood_Kayseri/Melikgazi/Mimarsinanbahçelievler,0.0
+cat__neighborhood_Kayseri/Melikgazi/Mimarsinandemokrasi,0.0
+cat__neighborhood_Kayseri/Melikgazi/İldem Cumhuriyet,0.0
+cat__neighborhood_Kayseri/Talas/Mevlana,0.0
+cat__neighborhood_Kocaeli/Darıca/Kazım Karabekir,0.0
+cat__neighborhood_Kocaeli/Darıca/Nenehatun,0.0
+cat__neighborhood_Kocaeli/Darıca/Osman Gazi,0.0
+cat__neighborhood_Kocaeli/Darıca/Sırasöğütler,0.0
+cat__neighborhood_Kocaeli/Gebze/Köşklü Çeşme,0.0
+cat__neighborhood_Kocaeli/Gebze/Osman Yılmaz,0.0
+cat__neighborhood_Kocaeli/Karamürsel/4 Temmuz,0.0
+cat__neighborhood_Kocaeli/Çayırova/Özgürlük,0.0
+cat__neighborhood_Konya/Selçuklu/Selahaddin Eyyubi,0.0
+cat__neighborhood_Konya/Selçuklu/Yazır,0.0
+cat__neighborhood_Malatya/Yeşilyurt/Tecde,0.0
+cat__neighborhood_Malatya/Yeşilyurt/Yakınca,0.0
+cat__neighborhood_Manisa/Yunusemre/Güzelyurt,0.0
+cat__neighborhood_Manisa/Yunusemre/Muradiye,0.0
+cat__neighborhood_Manisa/Yunusemre/Uncubozköy,0.0
+cat__neighborhood_Manisa/Yunusemre/Yeni Mahalle,0.0
+cat__neighborhood_Mersin/Erdemli/Tömük,0.0
+cat__neighborhood_Mersin/Mezitli/Akdeniz,0.0
+cat__neighborhood_Mersin/Mezitli/Deniz,0.0
+cat__neighborhood_Mersin/Mezitli/Menderes,0.0
+cat__neighborhood_Mersin/Mezitli/Merkez,0.0
+cat__neighborhood_Mersin/Mezitli/Viranşehir,0.0
+cat__neighborhood_Mersin/Mezitli/Yeni,0.0
+cat__neighborhood_Mersin/Silifke/Atakent,0.0
+cat__neighborhood_Mersin/Yenişehir/50. Yıl,0.0
+cat__neighborhood_Mersin/Yenişehir/Akkent,0.0
+cat__neighborhood_Mersin/Yenişehir/Menteş,0.0
+cat__neighborhood_Mersin/Yenişehir/Çiftlikköy,0.0
+cat__neighborhood_Muğla/Bodrum/Gümüşlük,0.0
+cat__neighborhood_Muğla/Bodrum/Mumcular,0.0
+cat__neighborhood_Muğla/Bodrum/Turgutreis,0.0
+cat__neighborhood_Muğla/Bodrum/Yalıkavak,0.0
+cat__neighborhood_Muğla/Dalaman/Hürriyet,0.0
+cat__neighborhood_Muğla/Dalaman/Karaçalı,0.0
+cat__neighborhood_Muğla/Dalaman/Merkez,0.0
+cat__neighborhood_Muğla/Datça/İskele,0.0
+cat__neighborhood_Muğla/Fethiye/Patlangıç,0.0
+cat__neighborhood_Muğla/Fethiye/Taşyaka,0.0
+cat__neighborhood_Ordu/Altınordu/Şahincili,0.0
+cat__neighborhood_Osmaniye/Merkez/M.Akif Ersoy,0.0
+cat__neighborhood_Sakarya/Karasu/Aziziye,0.0
+cat__neighborhood_Sakarya/Karasu/Yalı,0.0
+cat__neighborhood_Samsun/Atakum/Cumhuriyet,0.0
+cat__neighborhood_Samsun/Atakum/Esenevler,0.0
+cat__neighborhood_Samsun/Atakum/Körfez,0.0
+cat__neighborhood_Samsun/Atakum/Mevlana,0.0
+cat__neighborhood_Samsun/Atakum/Mimarsinan,0.0
+cat__neighborhood_Samsun/Atakum/Yenimahalle,0.0
+cat__neighborhood_Samsun/Atakum/İstiklal,0.0
+cat__neighborhood_Samsun/İlkadım/Derebahçe,0.0
+cat__neighborhood_Tekirdağ/Marmaraereğlisi/Yeniçiftlik,0.0
+cat__neighborhood_Tekirdağ/Çerkezköy/Bağlık,0.0
+cat__neighborhood_Tekirdağ/Çerkezköy/İstasyon,0.0
+cat__neighborhood_Tekirdağ/Çorlu/Muhittin,0.0
+cat__neighborhood_Tekirdağ/Çorlu/Nusratiye,0.0
+cat__neighborhood_Tekirdağ/Çorlu/Reşadiye,0.0
+cat__neighborhood_Tekirdağ/Çorlu/Şeyh Sinan,0.0
+cat__neighborhood_Trabzon/Akçaabat/Söğütlü,0.0
+cat__neighborhood_Trabzon/Ortahisar/Pelitli,0.0
+cat__neighborhood_Trabzon/Ortahisar/Çukurçayır,0.0
+cat__neighborhood_Trabzon/Yomra/Kaşüstü,0.0
+cat__neighborhood_Yalova/Çınarcık/Harmanlar,0.0
+cat__neighborhood_Yalova/Çınarcık/Karpuzdere,0.0
+cat__neighborhood_Yalova/Çınarcık/Taşliman,0.0
+cat__neighborhood_Çanakkale/Ayvacık/Küçükkuyu Bld. (Mıhlı),0.0
+cat__neighborhood_Çanakkale/Merkez/Barbaros,0.0
+cat__neighborhood_Çanakkale/Merkez/Kepez Bld. (Hamidiye),0.0
+cat__neighborhood_Çanakkale/Merkez/İsmetpaşa,0.0
+cat__neighborhood_Çorum/Merkez/Ulukavak,0.0
+cat__neighborhood_İstanbul/Arnavutköy/Anadolu,0.0
+cat__neighborhood_İstanbul/Avcılar/Ambarlı,0.0
+cat__neighborhood_İstanbul/Avcılar/Cihangir,0.0
+cat__neighborhood_İstanbul/Avcılar/Denizköşkler,0.0
+cat__neighborhood_İstanbul/Avcılar/Gümüşpala,0.0
+cat__neighborhood_İstanbul/Avcılar/Merkez,0.0
+cat__neighborhood_İstanbul/Avcılar/Mustafa Kemal Paşa,0.0
+cat__neighborhood_İstanbul/Avcılar/Tahtakale,0.0
+cat__neighborhood_İstanbul/Bahçelievler/Bahçelievler,0.0
+cat__neighborhood_İstanbul/Bahçelievler/Cumhuriyet,0.0
+cat__neighborhood_İstanbul/Bahçelievler/Kocasinan Merkez,0.0
+cat__neighborhood_İstanbul/Bahçelievler/Siyavuşpaşa,0.0
+cat__neighborhood_İstanbul/Bahçelievler/Soğanlı,0.0
+cat__neighborhood_İstanbul/Bahçelievler/Yenibosna Merkez,0.0
+cat__neighborhood_İstanbul/Bahçelievler/Zafer,0.0
+cat__neighborhood_İstanbul/Bahçelievler/Şirinevler,0.0
+cat__neighborhood_İstanbul/Bağcılar/Güneşli,0.0
+cat__neighborhood_İstanbul/Bağcılar/Mahmutbey,0.0
+cat__neighborhood_İstanbul/Başakşehir/Bahçeşehir 1. Kısım,0.0
+cat__neighborhood_İstanbul/Başakşehir/Bahçeşehir 2. Kısım,0.0
+cat__neighborhood_İstanbul/Başakşehir/Başak,0.0
+cat__neighborhood_İstanbul/Başakşehir/Başakşehir,0.0
+cat__neighborhood_İstanbul/Başakşehir/Kayabaşı,0.0
+cat__neighborhood_İstanbul/Başakşehir/Ziya Gökalp,0.0
+cat__neighborhood_İstanbul/Beylikdüzü/Adnan Kahveci,0.0
+cat__neighborhood_İstanbul/Beylikdüzü/Barış,0.0
+cat__neighborhood_İstanbul/Beylikdüzü/Beylikdüzü OSB,0.0
+cat__neighborhood_İstanbul/Beylikdüzü/Cumhuriyet,0.0
+cat__neighborhood_İstanbul/Beylikdüzü/Gürpınar,0.0
+cat__neighborhood_İstanbul/Beylikdüzü/Kavaklı,0.0
+cat__neighborhood_İstanbul/Beylikdüzü/Yakuplu,0.0
+cat__neighborhood_İstanbul/Esenyurt/Ardıçlı,0.0
+cat__neighborhood_İstanbul/Esenyurt/Balıkyolu,0.0
+cat__neighborhood_İstanbul/Esenyurt/Barbaros Hayrettin Paşa,0.0
+cat__neighborhood_İstanbul/Esenyurt/Bağlarçeşme,0.0
+cat__neighborhood_İstanbul/Esenyurt/Cumhuriyet,0.0
+cat__neighborhood_İstanbul/Esenyurt/Fatih,0.0
+cat__neighborhood_İstanbul/Esenyurt/Güzelyurt,0.0
+cat__neighborhood_İstanbul/Esenyurt/Mehterçeşme,0.0
+cat__neighborhood_İstanbul/Esenyurt/Pınar,0.0
+cat__neighborhood_İstanbul/Esenyurt/Saadetdere,0.0
+cat__neighborhood_İstanbul/Esenyurt/Selahaddin Eyyubi,0.0
+cat__neighborhood_İstanbul/Esenyurt/Talatpaşa,0.0
+cat__neighborhood_İstanbul/Esenyurt/Yenikent,0.0
+cat__neighborhood_İstanbul/Esenyurt/Yeşilkent,0.0
+cat__neighborhood_İstanbul/Esenyurt/Yunus Emre,0.0
+cat__neighborhood_İstanbul/Esenyurt/Zafer,0.0
+cat__neighborhood_İstanbul/Esenyurt/İncirtepe,0.0
+cat__neighborhood_İstanbul/Esenyurt/İnönü,0.0
+cat__neighborhood_İstanbul/Kadıköy/Suadiye,0.0
+cat__neighborhood_İstanbul/Kartal/Hürriyet,0.0
+cat__neighborhood_İstanbul/Kartal/Uğur Mumcu,0.0
+cat__neighborhood_İstanbul/Kağıthane/Merkez,0.0
+cat__neighborhood_İstanbul/Kağıthane/Çeliktepe,0.0
+cat__neighborhood_İstanbul/Küçükçekmece/Atakent,0.0
+cat__neighborhood_İstanbul/Küçükçekmece/Cennet,0.0
+cat__neighborhood_İstanbul/Küçükçekmece/Halkalı Merkez,0.0
+cat__neighborhood_İstanbul/Küçükçekmece/İstasyon,0.0
+cat__neighborhood_İstanbul/Maltepe/Altayçeşme,0.0
+cat__neighborhood_İstanbul/Maltepe/Altıntepe,0.0
+cat__neighborhood_İstanbul/Maltepe/Bağlarbaşı,0.0
+cat__neighborhood_İstanbul/Maltepe/Cevizli,0.0
+cat__neighborhood_İstanbul/Maltepe/Fındıklı,0.0
+cat__neighborhood_İstanbul/Maltepe/Girne,0.0
+cat__neighborhood_İstanbul/Maltepe/Küçükyalı,0.0
+cat__neighborhood_İstanbul/Maltepe/Zümrütevler,0.0
+cat__neighborhood_İstanbul/Maltepe/İdealtepe,0.0
+cat__neighborhood_İstanbul/Pendik/Ahmet Yesevi,0.0
+cat__neighborhood_İstanbul/Pendik/Güzelyalı,0.0
+cat__neighborhood_İstanbul/Pendik/Kurtköy,0.0
+cat__neighborhood_İstanbul/Pendik/Velibaba,0.0
+cat__neighborhood_İstanbul/Pendik/Yenişehir,0.0
+cat__neighborhood_İstanbul/Sancaktepe/Abdurrahmangazi,0.0
+cat__neighborhood_İstanbul/Sancaktepe/Mevlana,0.0
+cat__neighborhood_İstanbul/Sancaktepe/Osmangazi,0.0
+cat__neighborhood_İstanbul/Sancaktepe/Safa,0.0
+cat__neighborhood_İstanbul/Sancaktepe/Yenidoğan,0.0
+cat__neighborhood_İstanbul/Silivri/Yeni,0.0
+cat__neighborhood_İstanbul/Sultanbeyli/Adil,0.0
+cat__neighborhood_İstanbul/Sultanbeyli/Mimar Sinan,0.0
+cat__neighborhood_İstanbul/Sultangazi/50. Yıl,0.0
+cat__neighborhood_İstanbul/Sultangazi/75. Yıl,0.0
+cat__neighborhood_İstanbul/Sultangazi/Cebeci,0.0
+cat__neighborhood_İstanbul/Sultangazi/Esentepe,0.0
+cat__neighborhood_İstanbul/Sultangazi/Sultançiftliği,0.0
+cat__neighborhood_İstanbul/Sultangazi/Uğur Mumcu,0.0
+cat__neighborhood_İstanbul/Sultangazi/Yunus Emre,0.0
+cat__neighborhood_İstanbul/Sultangazi/İsmetpaşa,0.0
+cat__neighborhood_İstanbul/Tuzla/Aydınlı,0.0
+cat__neighborhood_İstanbul/Tuzla/Yayla,0.0
+cat__neighborhood_İstanbul/Tuzla/İstasyon,0.0
+cat__neighborhood_İstanbul/Çekmeköy/Aydınlar,0.0
+cat__neighborhood_İstanbul/Çekmeköy/Cumhuriyet,0.0
+cat__neighborhood_İstanbul/Çekmeköy/Taşdelen,0.0
+cat__neighborhood_İstanbul/Ümraniye/Armağanevler,0.0
+cat__neighborhood_İstanbul/Ümraniye/Çakmak,0.0
+cat__neighborhood_İzmir/Balçova/Eğitim,0.0
+cat__neighborhood_İzmir/Balçova/Onur,0.0
+cat__neighborhood_İzmir/Bornova/Mevlana,0.0
+cat__neighborhood_İzmir/Buca/Atatürk,0.0
+cat__neighborhood_İzmir/Buca/Kozağaç,0.0
+cat__neighborhood_İzmir/Gaziemir/Atıfbey,0.0
+cat__neighborhood_İzmir/Gaziemir/Gazi,0.0
+cat__neighborhood_İzmir/Gaziemir/Irmak,0.0
+cat__neighborhood_İzmir/Karşıyaka/Bostanlı,0.0
+cat__neighborhood_İzmir/Karşıyaka/Dedebaşı,0.0
+cat__neighborhood_İzmir/Karşıyaka/Demirköprü,0.0
+cat__neighborhood_İzmir/Karşıyaka/Nergiz,0.0
+cat__neighborhood_İzmir/Karşıyaka/Örnekköy,0.0
+cat__neighborhood_İzmir/Karşıyaka/Şemikler,0.0
+cat__neighborhood_İzmir/Seferihisar/Mersin Alanı,0.0
+cat__neighborhood_İzmir/Torbalı/Ayrancılar,0.0
+cat__neighborhood_İzmir/Torbalı/Fevzi Çakmak,0.0
+cat__neighborhood_İzmir/Torbalı/İnönü,0.0
+cat__neighborhood_infrequent_sklearn,0.0
+cat__sub_type_Daire,0.0
+cat__sub_type_Komple Bina,0.0
+cat__sub_type_Müstakil Ev,0.0
+cat__sub_type_Rezidans,0.0
+cat__sub_type_Villa,0.0
+cat__sub_type_Yazlık,0.0
+cat__sub_type_Çiftlik Evi,0.0
+cat__sub_type_infrequent_sklearn,0.0
+cat__heating_type_Güneş Enerjisi,0.0
+cat__heating_type_Jeotermal,0.0
+cat__heating_type_Kalorifer (Akaryakıt),0.0
+cat__heating_type_Kalorifer (Doğalgaz),0.0
+cat__heating_type_Kalorifer (Kömür),0.0
+cat__heating_type_Kat Kaloriferi,0.0
+cat__heating_type_Klima,0.0
+cat__heating_type_Kombi (Doğalgaz),0.0
+cat__heating_type_Kombi (Elektrikli),0.0
+cat__heating_type_Merkezi Sistem,0.0
+cat__heating_type_Merkezi Sistem (Isı Payı Ölçer),0.0
+cat__heating_type_Soba (Doğalgaz),0.0
+cat__heating_type_Soba (Kömür),0.0
+cat__heating_type_Yerden Isıtma,0.0
+cat__heating_type_Yok,0.0
+cat__heating_type_infrequent_sklearn,0.0

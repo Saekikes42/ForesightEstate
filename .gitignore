@@ -6,3 +6,8 @@ __pycache__/
 venv/
 .env
 *.log
+
+.streamlit/secrets.toml
+
+catboost_info/
+desktop.ini
