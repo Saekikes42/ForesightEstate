@@ -151,7 +151,7 @@ with tabs[0]:
                 st.error(f"Не удалось создать фото: {exc}")
         quote = st.session_state.get("valuation_result")
         if quote and quote.get("photo"):
-            st.image(quote["photo"], caption="Сгенерированный визуальный образ объекта", use_column_width=True)
+            st.image(quote["photo"], caption="Сгенерированный визуальный образ объекта")
         if not api_key:
             st.caption("Для работы кнопки задайте OPENROUTER_API_KEY в переменных окружения или в .streamlit/secrets.toml.")
 
